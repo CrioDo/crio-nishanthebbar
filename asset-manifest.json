@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crio-nishanthebbar/static/css/main.5db1380d.chunk.css",
+    "main.js": "/crio-nishanthebbar/static/js/main.367e929d.chunk.js",
+    "main.js.map": "/crio-nishanthebbar/static/js/main.367e929d.chunk.js.map",
+    "runtime-main.js": "/crio-nishanthebbar/static/js/runtime-main.4a6c84d3.js",
+    "runtime-main.js.map": "/crio-nishanthebbar/static/js/runtime-main.4a6c84d3.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/crio-nishanthebbar/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.a68fecdb.chunk.js": "/crio-nishanthebbar/static/js/2.a68fecdb.chunk.js",
+    "static/js/2.a68fecdb.chunk.js.map": "/crio-nishanthebbar/static/js/2.a68fecdb.chunk.js.map",
+    "index.html": "/crio-nishanthebbar/index.html",
+    "precache-manifest.12384275d3edbe3f22e35ac01128e597.js": "/crio-nishanthebbar/precache-manifest.12384275d3edbe3f22e35ac01128e597.js",
+    "service-worker.js": "/crio-nishanthebbar/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/crio-nishanthebbar/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/crio-nishanthebbar/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.a68fecdb.chunk.js.LICENSE.txt": "/crio-nishanthebbar/static/js/2.a68fecdb.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/crio-nishanthebbar/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/crio-nishanthebbar/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a6c84d3.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.a68fecdb.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.367e929d.chunk.js"
+  ]
+}
